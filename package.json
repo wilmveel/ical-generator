@@ -1,4 +1,5 @@
 {
+  "version": "0.0.1",
   "name": "ical-generator",
   "description": "ical-generator is a small piece of code which generates ical calendar files",
   "author": "Sebastian Pekarek <mail@sebbo.net>",
